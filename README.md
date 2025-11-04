@@ -14,3 +14,6 @@ USED AS A BASIS FOR DIAGNOSIS OR MEDICAL DECISIONS. PLEASE CONSULT A
 HEALTHCARE PROVIDER FOR PROFESSIONAL MEDICAL ADVICE.                    
                                                                       
 CREATED BY YOUNES AMEZIANE                                              
+
+
+A new version of this prjoect has been created in 'main.ipynb'
